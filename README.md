@@ -9,6 +9,7 @@
 Jupyter notebook, Python 3.7, Pandas, Numpy, Scikit Learn, Matplotlib, Boston housing data, UCI ML Repository, Anaconda Software and other machine learning libraries.
 
 ![image](https://user-images.githubusercontent.com/91591163/202106182-7f67fb76-9cab-424a-9bb6-3d44619692d9.png)
+
 ![image](https://user-images.githubusercontent.com/91591163/202106228-930ccf3c-f687-49e2-a6df-59e6f6b60491.png)
 
 
