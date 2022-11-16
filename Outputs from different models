@@ -1,0 +1,13 @@
+MODEL OUTPUTS (% mean error) : Lesser the mean error, better the model's performance.
+
+1. Linear Regression Model :-
+    Mean:  5.034551823823665
+    Standard Deviation:  1.0605830886211625
+
+2. Decision Tree Model :-
+    Mean:  4.322933232790074
+    Standard Deviation:  0.7899587648763802
+
+3. Random Forest Regression Model :-
+    Mean:  3.2965934181537735
+    Standard Deviation:  0.7085245518887234
